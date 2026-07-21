@@ -6,7 +6,7 @@ A hands on Purple Team exercise simulating real world attacker behavior against 
 
 This lab demonstrates how security teams can identify and stop early stage attacker activity before ransomware encryption impacts operations.
 
-[![Watch the Demo](https://img.shields.io/badge/YouTube-Watch%20the%20Demo-red?logo=youtube&logoColor=white)](https://youtu.be/hisZTYzv_nQ?si=Hh-grzVMIn8RlRQy)
+[![Watch the Demo](https://img.shields.io/badge/YouTube-Watch%20the%20Demo-purple?logo=youtube&logoColor=white)](https://youtu.be/hisZTYzv_nQ?si=Hh-grzVMIn8RlRQy)
 
 ## Responsible Use
 
@@ -71,7 +71,7 @@ vssadmin delete shadows /all
 
 🎓 This lab is based on Eric Capuano's So You Want To Be A SOC Analyst course. It has been completed as a personal educational project to reinforce detection engineering and SOC analyst skills.
 
-[![Learn More](https://img.shields.io/badge/Digital%20Defense%20Institute-Learn%20More-blue)](https://digitaldefenseinstitute.com/)
+[![Learn More](https://img.shields.io/badge/Digital%20Defense%20Institute-Learn%20More-purple)](https://digitaldefenseinstitute.com/)
 
 ## Key Takeaway
 

@@ -1,0 +1,37 @@
+# Secrets and credentials
+*.env
+.env.*
+*api_key*
+*apikey*
+*secret*
+*token*
+*credential*
+*.pem
+*.key
+*.pfx
+*.p12
+
+# LimaCharlie
+*lc_install_key*
+*limacharlie_config*
+*.lc_conf
+
+# Sliver C2
+*sliver_config*
+*.cfg
+
+# Captured artifacts from lab exercises
+*.dmp
+*.pcap
+*.pcapng
+lsass*.dmp
+
+# Local environment and editor files
+.vscode/
+.idea/
+*.log
+
+# OS junk files
+.DS_Store
+Thumbs.db
+desktop.ini

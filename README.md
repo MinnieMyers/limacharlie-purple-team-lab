@@ -41,10 +41,14 @@ This repository documents offensive techniques (credential access, C2 deployment
 * Delivered a Sliver C2 implant to the target network through an Edge browser download
 * Established an active session between the Linux adversary VM and the target Windows VM
 
+![Sliver C2 Launch](screenshots/SLIVER-launch.png)
+
 ### 3. C2 Detection Rule (Blue Team)
 
 * Developed a custom detection and response rule in LimaCharlie EDR/SIEM to detect Sliver activity
 * Configured the rule to generate an escalated detection alert for future C2 activity on the target network
+
+![LimaCharlie Detection and Response Rule](screenshots/LimaCharlie-D-R.png)
 
 ### 4. Volume Shadow Copy Deletion (Red Team)
 
@@ -61,6 +65,8 @@ vssadmin delete shadows /all
 * Analyzed LimaCharlie's default detection rule for the Delete Shadow Copy event
 * Converted the detection into an active blocking rule applied to the parent process tree
 * Modified the response to add the `deny_tree` command, blocking future processes attempting to delete backups
+
+![Parent Process Blocked](screenshots/Parent-process-blocked.png)
 
 ## MITRE ATT&CK Mapping
 

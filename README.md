@@ -6,7 +6,7 @@ A hands on Purple Team exercise simulating real world attacker behavior against 
 
 This lab demonstrates how security teams can identify and stop early stage attacker activity before ransomware encryption impacts operations.
 
-![LimaCharlie EDR Purple Team Lab Thumbnail](assets/thumbnail_FINAL.png)
+![LimaCharlie EDR Purple Team Lab Thumbnail](thumbnail-FINAL.png)
 
 [![Watch the Demo](https://img.shields.io/badge/YouTube-Watch%20the%20Demo-purple?logo=youtube&logoColor=white)](https://youtu.be/hisZTYzv_nQ?si=Hh-grzVMIn8RlRQy)
 
